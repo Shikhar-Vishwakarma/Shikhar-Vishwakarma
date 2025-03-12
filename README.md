@@ -3,7 +3,7 @@
 
 **Artificial Intelligence and Data Science | New Horizon Institute of Technology and Management (Mumbai University)**
 
-[LinkedIn](https://www.linkedin.com/in/shikhar-vishwakarma/) | [GitHub](https://github.com/your-username) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/shikhar-vishwakarma/) | [GitHub](https://github.com/Shikhar-Vishwakarma) 
 
 ---
 
