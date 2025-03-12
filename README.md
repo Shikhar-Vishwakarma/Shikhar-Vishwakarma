@@ -1,4 +1,3 @@
-## Hi there 👋
 # Shikhar Vishwakarma
 
 **Artificial Intelligence and Data Science | New Horizon Institute of Technology and Management (Mumbai University)**
